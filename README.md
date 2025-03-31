@@ -1,3 +1,6 @@
+Not working yet
+----
+----
 This is a fork of [Rui Ueyama's chibicc](https://github.com/rui314/chibicc) with [fixes](https://github.com/fuhsnn/slimcc/issues?q=is%3Aissue+is%3Aclosed+label%3Aupstream-chibicc) and improvements, including:
  - C99 features: VLA parameters, VLA de-allocation, K&R old-style functions.
  - C11 features: `_Static_assert()`, over-aligned locals, `_Generic` with qualifiers.
